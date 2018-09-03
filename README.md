@@ -11,3 +11,7 @@ This repository is intended to be use for the Git 101 course. Please make sure t
    - [Atom](https://atom.io/)
    - [Visual Code](https://code.visualstudio.com/)
    - [A JetBrains IDE](https://www.jetbrains.com/products.html?fromMenu)
+
+
+> Using the terminal helps you to understand all the command options. Using a visual tool helps you because it automates a lot things for you, but you miss the learning experience and you might find surprises or unintended consequences.  
+— Vidal
