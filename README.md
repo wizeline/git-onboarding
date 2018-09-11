@@ -11,4 +11,5 @@ This repository is intended to be use for the Git 101 course. Please make sure t
    - [Atom](https://atom.io/)
    - [Visual Code](https://code.visualstudio.com/)
    - [A JetBrains IDE](https://www.jetbrains.com/products.html?fromMenu)
+
 - A terminal is also required.
